@@ -56,6 +56,6 @@ Ou instale este:
 ### 👨‍💻 Autor
 - **Eduardo Viana, Vinicius Galoa, Manoella Santana**
 
-- **GitHub: @dudurviana**
+- **GitHub: @Vinicius-prog-dev**
 ### 📝 Licença
 - **Este projeto é fornecido para fins educacionais. Use livremente e respeite os termos de serviço dos sites que você faz scraping.**
